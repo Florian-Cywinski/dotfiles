@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = florian.cywinski@protonmail.com
+	name = Florian Cywinski
